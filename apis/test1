@@ -1,0 +1,10 @@
+{
+  "question":"who is queen of england?",
+  "answers": [
+    "linda",
+    "tammy",
+    "lizzy",
+    "sarah"
+    ],
+  "correct":"lizzy"
+}
